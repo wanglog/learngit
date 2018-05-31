@@ -9,4 +9,5 @@ Git is free software distributed ubder the GPL.
 Git VIP
 Git has a mutable index called stage.
 Git tracks changes.
-Creating  a new breach is quick.
+Creating  a new breach is quick AND simple.
+
