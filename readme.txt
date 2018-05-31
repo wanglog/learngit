@@ -10,4 +10,4 @@ Git VIP
 Git has a mutable index called stage.
 Git tracks changes.
 Creating  a new breach is quick AND simple.
-reating add  merge.
+reating add  merge breach.
